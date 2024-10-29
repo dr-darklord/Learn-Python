@@ -1,7 +1,8 @@
 '''Change Values
 You can change the value of a specific item by referring to its key name:
 
-ExampleGet your own Python Server
+Example
+
 Change the "year" to 2018:
 '''
 thisdict = {
